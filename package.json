@@ -1,0 +1,19 @@
+{
+  "name": "dodgeball",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saradraj/dodgeball.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saradraj/dodgeball/issues"
+  },
+  "homepage": "https://github.com/saradraj/dodgeball#readme"
+}
