@@ -58,7 +58,13 @@ const blueTeam = [];
 const redTeam = [];
 
 class player {
-  constructor() {}
+  constructor(id, name, age, skillSet, placeBorn) {
+      this.id = id;
+      this.name = name;
+      this.age = age;
+      this.skillSet = skillSet;
+      this.placeBorn = placeBorn;
+  }
 }
 class blueTeammate {
   constructor() {}
